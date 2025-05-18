@@ -106,3 +106,4 @@ jobs:
         script: |
           systemctl restart flask-app
           echo "Deployment completed successfully!"
+          
